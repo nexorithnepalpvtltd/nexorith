@@ -67,7 +67,7 @@ export default function Home() {
             <p className="text-base leading-relaxed md:max-w-[50ch]">
               At Nexorith, we bring your vision to life with premium IT
               solutions and expert skill training. Empower your business and
-              elevate your tech skills with us.
+              elevate your tech skills with us .
             </p>
 
             <div>
