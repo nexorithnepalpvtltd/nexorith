@@ -19,9 +19,9 @@ export function SiteFooter() {
         <div className="space-y-4 md:max-w-[30ch] lg:space-y-6">
           <NexorithLogo className="h-12 text-primary" />
           <p className="text-justify text-secondary-foreground/80">
-            "Nexorith" communicates a sense of innovation, progress, and
-            professionalism, making it a suitable choice for an IT company that
-            aims to offer cutting-edge solutions and services.
+            &quot;Nexorith&quot; communicates a sense of innovation, progress,
+            and professionalism, making it a suitable choice for an IT company
+            that aims to offer cutting-edge solutions and services.
           </p>
         </div>
         <div className="space-y-4 lg:space-y-6">
