@@ -16,7 +16,7 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 
-import { BadgeCheckIcon, Link, StarIcon } from "lucide-react";
+import { BadgeCheckIcon, StarIcon } from "lucide-react";
 
 import { companies, reviews } from "@/configs/site";
 
