@@ -191,7 +191,7 @@ export default function Home() {
             <h2 className="text-balance text-3xl font-bold tracking-tighter md:text-4xl lg:text-5xl">
               Global Expertise: Courses with International-Level Content
             </h2>
-            <p className="mx-auto max-w-[50ch] leading-relaxed">
+            <p className="mx-auto leading-relaxed">
               Unlock globally recognized knowledge and skills with courses
               designed to meet international standards, ensuring you stay
               competitive and informed.
