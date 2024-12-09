@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import NextTopLoader from "nextjs-toploader";
 
+import AnalyticsInitializer from "@/components/AnalyticsInitializer";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 
@@ -25,6 +26,8 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <body className={cn(inter.className, "antialiased")}>
+        {/* Initialize analytics */}
+        <AnalyticsInitializer />
         <SiteHeader />
         {children}
         <SiteFooter />
