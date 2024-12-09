@@ -85,7 +85,7 @@ export default function ContactPage() {
           <MapPinIcon className="text-primary" />
           <h3 className="text-lg font-bold">Office Address</h3>
           <div className="text-secondary-foreground/80">
-            1421 Coburn Hollow Road Metamora, Near Center Point, IL 61548.
+            Sanepa-02, lalitpur, Nep[al]
           </div>
         </div>
         <div className="flex h-full flex-col justify-center gap-4 rounded-md border bg-secondary p-6 text-secondary-foreground shadow-sm lg:p-8">
@@ -119,7 +119,7 @@ export default function ContactPage() {
       <section>
         <iframe
           aria-hidden="false"
-          src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28265.132047434687!2d85.28552183955078!3d27.68202100000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb190065866fa9%3A0xfd242c841fc14ade!2sNexorith%20Nepal%20Pvt.%20Ltd!5e0!3m2!1sen!2snp!4v1733665864811!5m2!1sen!2snp"
           tabIndex={0}
           title="Google Map"
           className="h-72 w-full md:h-80 lg:h-96"
