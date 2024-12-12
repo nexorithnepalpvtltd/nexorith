@@ -90,11 +90,11 @@ export default function Home() {
                   <li className="group/edit flex cursor-pointer gap-4 rounded-sm p-3 outline outline-1 outline-primary backdrop-blur-lg duration-200 hover:bg-primary hover:text-white hover:outline-primary">
                     <div className="space-y-1 text-justify md:max-w-56">
                       <strong className="text-primary group-hover/edit:text-white">
-                        Get IT Service from Us
+                        Learn from Nexorith
                       </strong>
                       <p className="text-xs">
-                        You will receive a dedicated team focused on achieving
-                        your goals.
+                        A customized learning environment focused on
+                        participants' unique needs and goals.
                       </p>
                     </div>
                     <LearnIcon className="self-centere m-4 h-12 w-12 text-primary group-hover/edit:text-white" />
